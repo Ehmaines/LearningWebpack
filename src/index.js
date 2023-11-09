@@ -8,3 +8,4 @@ soma(14, 2);
 //Loaders
 const heading = new Heading();
 heading.create("Titulo dinâmico")
+heading.create("Hot Reload")
